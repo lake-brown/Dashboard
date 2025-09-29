@@ -1,6 +1,6 @@
 # React CRM Dashboard
 
-![Dashboard Preview](./images/dashboard-preview.png)
+![Dashboard Preview](./images/dashboard.png)
 
 ## Introduction
 
